@@ -1,0 +1,27 @@
+<TablacusExplorer>
+  <General>
+    <Version>1.04</Version>
+    <MinVersion>2025.6.8</MinVersion>
+    <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
+    <Options>Common:0:0</Options>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+    <License>MIT License</License>
+  </General>
+  <en>
+    <Name>Notepad alternative</Name>
+    <Description>Replace Notepad with another application.</Description>
+  </en>
+  <fr>
+    <Name>Remplacer Notepad</Name>
+    <Description>Remplacer Notepad par un autre éditeur</Description>
+  </fr>
+  <ja>
+    <Name>メモ帳の置き換え</Name>
+    <Description>メモ帳を別のアプリに置き換えます。</Description>
+  </ja>
+  <zh>
+    <Name>記事本替代程式</Name>
+  </zh>
+</TablacusExplorer>

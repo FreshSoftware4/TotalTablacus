@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TablacusExplorer>
+  <General>
+    <Version>1.06</Version>
+    <MinVersion>2021.1.5</MinVersion>
+    <pubDate>Sun, 10 Jan 2021 00:00:00 GMT</pubDate>
+    <Options>Common:0:0</Options>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+    <License>MIT License</License>
+  </General>
+  <en>
+    <Name>NETSCAPE Bookmarks</Name>
+    <Description>NETSCAPE Bookmarks</Description>
+  </en>
+  <ja>
+    <Name>NETSCAPEブックマーク</Name>
+  </ja>
+  <zh>
+    <Name>網景格式書籤</Name>
+  </zh>
+</TablacusExplorer>

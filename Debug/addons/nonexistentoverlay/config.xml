@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TablacusExplorer>
+  <General>
+    <Version>1.02</Version>
+    <MinVersion>2020.12.19</MinVersion>
+    <pubDate>Sun, 20 Dec 2020 00:00:00 GMT</pubDate>
+    <Options>Common:5:5</Options>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+    <License>MIT License</License>
+  </General>
+  <en>
+    <Name>Overlay icon of nonexistent items</Name>
+    <Description>Show overlay icon in nonexistent items</Description>
+  </en>
+  <ja>
+    <Name>存在しない項目のオーバーレイアイコン</Name>
+  </ja>
+  <zh>
+    <Name>以交叉標示不存在的項目</Name>
+  </zh>
+</TablacusExplorer>

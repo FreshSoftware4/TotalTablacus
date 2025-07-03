@@ -1,0 +1,26 @@
+<TablacusExplorer>
+  <General>
+    <Version>1.06</Version>
+    <MinVersion>2025.6.8</MinVersion>
+    <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
+    <Options>Common:4,7,8,9:4</Options>
+    <DllVersion>1.0.0.0</DllVersion>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+    <License>MIT License</License>
+  </General>
+  <en>
+    <Name>Jump list</Name>
+    <Description>Jump list</Description>
+  </en>
+  <fr>
+    <Name>Liste de sauts</Name>
+  </fr>
+  <ja>
+    <Name>ジャンプリスト</Name>
+  </ja>
+  <zh>
+    <Name>跳躍清單</Name>
+  </zh>
+</TablacusExplorer>

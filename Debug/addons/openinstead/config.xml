@@ -1,0 +1,27 @@
+<TablacusExplorer>
+  <General>
+    <Version>1.14</Version>
+    <MinVersion>2023.9.13</MinVersion>
+    <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
+    <Options>Common:0:0</Options>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+    <License>MIT License</License>
+  </General>
+  <en>
+    <Name>Open instead</Name>
+    <Description>Open instead of Explorer</Description>
+  </en>
+  <fr>
+    <Name>Ouvrir à la place</Name>
+    <Description>Ouvrir TE à la place de l&apos;Explorateur.</Description>
+  </fr>
+  <ja>
+    <Name>エクスプローラの代わりに開く</Name>
+    <Description>エクスプローラの代わりにTablacus Explorerで開きます。</Description>
+  </ja>
+  <zh>
+    <Name>接替檔案總管</Name>
+  </zh>
+</TablacusExplorer>
