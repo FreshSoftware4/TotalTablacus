@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TablacusExplorer>
+  <General>
+    <Version>1.11</Version>
+    <MinVersion>2020.11.28</MinVersion>
+    <pubDate>Sun, 29 Nov 2020 00:00:00 GMT</pubDate>
+    <Options>Common:0:0</Options>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+    <License>MIT License</License>
+  </General>
+  <en>
+    <Name>Open the same locked tab instead</Name>
+    <Description>Open the same locked tab instead</Description>
+  </en>
+  <ja>
+    <Name>同一のロックされたタブがあれば開く</Name>
+  </ja>
+  <zh>
+    <Name>防止重複已鎖分頁</Name>
+  </zh>
+</TablacusExplorer>

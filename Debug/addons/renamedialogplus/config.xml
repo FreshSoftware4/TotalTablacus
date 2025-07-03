@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TablacusExplorer>
+  <General>
+    <Version>1.09</Version>
+    <MinVersion>2023.9.13</MinVersion>
+    <pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
+    <Options>Common:7,8,9:7</Options>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+    <License>MIT License</License>
+  </General>
+  <en>
+    <Name>Rename dialog plus</Name>
+    <Description>Rename dialog box plus</Description>
+  </en>
+  <ja>
+    <Name>名前の変更ダイアログボックス プラス</Name>
+    <Description>名前の変更を拡張子別のダイアログボックスで行います。</Description>
+  </ja>
+  <zh>
+  	<Name>重新命名進階對話窗</Name>
+  </zh>
+</TablacusExplorer>

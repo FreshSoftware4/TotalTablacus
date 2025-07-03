@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TablacusExplorer>
+  <General>
+    <Version>1.02</Version>
+    <MinVersion>2020.12.31</MinVersion>
+    <pubDate>Tue, 05 Jan 2021 00:00:00 GMT</pubDate>
+    <Options>Common:0:0</Options>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+    <License>MIT License</License>
+  </General>
+  <en>
+    <Name>Space free column</Name>
+    <Description>Space free column. *Windows Vista or higher is required.</Description>
+  </en>
+  <ja>
+    <Name>空き領域カラム</Name>
+  </ja>
+  <zh>
+    <Name>可用空間欄位</Name>
+  </zh>
+</TablacusExplorer>
