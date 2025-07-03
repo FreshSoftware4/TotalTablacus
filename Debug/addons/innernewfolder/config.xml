@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TablacusExplorer>
+  <General>
+    <Version>1.06</Version>
+    <MinVersion>2021.11.1</MinVersion>
+    <pubDate>Mon, 13 Dec 2021 00:00:00 GMT</pubDate>
+    <Options>Common:5:5</Options>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+    <License>MIT License</License>
+  </General>
+  <en>
+    <Name>Inner New folder</Name>
+    <Description>New folder button of every pane</Description>
+  </en>
+  <fr>
+    <Name>Nouveau dossier - interne</Name>
+    <Description>Place un bouton "Nouveau dossier" dans chaque volet.</Description>
+  </fr>
+  <ja>
+    <Name>Inner 新規フォルダ</Name>
+    <Description>ペイン毎の新規フォルダボタン</Description>
+  </ja>
+  <zh>
+    <Name>窗格內新增資料夾</Name>
+  </zh>
+</TablacusExplorer>

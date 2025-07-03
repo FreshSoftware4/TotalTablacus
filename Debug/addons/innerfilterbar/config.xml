@@ -1,0 +1,27 @@
+<TablacusExplorer>
+  <General>
+    <Version>1.36</Version>
+    <MinVersion>2025.6.2</MinVersion>
+    <pubDate>Sat, 07 Jun 2025 00:00:00 GMT</pubDate>
+    <Options>Common:0,5,7,8,9:0</Options>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+    <License>MIT License</License>
+  </General>
+  <en>
+    <Name>Inner Filter bar</Name>
+    <Description>Filter bar for each pane</Description>
+  </en>
+  <fr>
+    <Name>Intérieur&#160;: Barre de filtre</Name>
+    <Description>Placer une barre de filtre dans chaque panneau</Description>
+  </fr>
+  <ja>
+    <Name>Inner フィルターバー</Name>
+    <Description>ペイン毎のフィルターバー</Description>
+  </ja>
+  <zh>
+    <Name>窗格內篩選列</Name>
+  </zh>
+</TablacusExplorer>

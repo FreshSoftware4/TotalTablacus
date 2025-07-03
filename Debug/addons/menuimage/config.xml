@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TablacusExplorer>
+  <General>
+    <Version>1.02</Version>
+    <MinVersion>2021.11.1</MinVersion>
+    <pubDate>Mon, 20 Dec 2021 00:00:00 GMT</pubDate>
+    <Options>Common:7:7</Options>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+    <License>MIT License</License>
+  </General>
+  <en>
+    <Name>Menu image</Name>
+    <Description>List the selected image files in a context menu.</Description>
+  </en>
+  <ja>
+    <Name>メニューに画像</Name>
+    <Description>メニューに選択したファイルの画像を表示します。</Description>
+  </ja>
+  <zh>
+    <Name>選單彈出預覽</Name>
+  </zh>
+</TablacusExplorer>

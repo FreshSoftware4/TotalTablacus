@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TablacusExplorer>
+  <General>
+    <Version>1.12</Version>
+    <MinVersion>2021.4.14</MinVersion>
+    <pubDate>Thu, 15 Apr 2021 00:00:00 GMT</pubDate>
+    <Options>Common:6:6</Options>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <Contributors>Tom</Contributors>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+    <License>MIT License</License>
+  </General>
+  <en>
+    <Name>Grab bar</Name>
+    <Description>Grab bar</Description>
+  </en>
+  <ja>
+    <Name>グラブバー</Name>
+  </ja>
+  <zh>
+    <Name>抓取列</Name>
+  </zh>
+</TablacusExplorer>

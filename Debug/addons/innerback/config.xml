@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TablacusExplorer>
+  <General>
+    <Version>1.14</Version>
+    <MinVersion>2021.11.1</MinVersion>
+    <pubDate>Mon, 13 Dec 2021 00:00:00 GMT</pubDate>
+    <Options>Common:5:5</Options>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+    <License>MIT License</License>
+  </General>
+  <en>
+    <Name>Inner Back</Name>
+    <Description>Back button of every pane</Description>
+  </en>
+  <fr>
+    <Name>Reculer - interne</Name>
+    <Description>Place le bouton "Reculer" dans chaque volet</Description>
+  </fr>
+  <ja>
+    <Name>Inner 戻る</Name>
+    <Description>ペイン毎の戻るボタン</Description>
+  </ja>
+  <zh>
+    <Name>窗格內上一頁</Name>
+  </zh>
+</TablacusExplorer>

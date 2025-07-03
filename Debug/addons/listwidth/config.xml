@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TablacusExplorer>
+  <General>
+    <Version>1.05</Version>
+    <MinVersion>2021.4.6</MinVersion>
+    <pubDate>Wed, 07 Apr 2021 00:00:00 GMT</pubDate>
+    <Options>Common:0:0</Options>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+    <License>MIT License</License>
+  </General>
+  <en>
+    <Name>List width</Name>
+    <Description>Custom width list view</Description>
+  </en>
+  <ja>
+    <Name>一覧表示の幅</Name>
+  </ja>
+  <zh>
+    <Name>自訂寬度的清單檢視</Name>
+  </zh>
+</TablacusExplorer>

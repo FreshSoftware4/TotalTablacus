@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TablacusExplorer>
+  <General>
+    <Version>1.01</Version>
+    <MinVersion>2020.12.20</MinVersion>
+    <pubDate>Mon, 21 Dec 2020 00:00:00 GMT</pubDate>
+    <Options>Common:8:8</Options>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+    <License>MIT License</License>
+  </General>
+  <en>
+    <Name>Hot key</Name>
+    <Description>Hot key</Description>
+  </en>
+  <ja>
+    <Name>ホットキー</Name>
+  </ja>
+  <zh>
+    <Name>快速鍵</Name>
+  </zh>
+</TablacusExplorer>
