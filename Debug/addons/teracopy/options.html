@@ -1,0 +1,11 @@
+<label>Path</label> (exe)
+<input type="text" id="Path" style="width: 100%" placeholder="C:\Program Files\TeraCopy\TeraCopy.exe">
+<input type="button" value="Browse..." onclick="RefX('Path',0,0,1,'*.exe')">
+<input type="button" value="Default" title="" onclick="SetDefault(document.F.Path, '')">
+<input type="button" value="Portable" onclick="PortableX('Path')"><br>
+<br>
+<label><input type="checkbox" id="!NoCopy">Copy</label><br>
+<label><input type="checkbox" id="!NoMove">Move</label>&nbsp;(<label><input type="checkbox" id="DiffDriveOnly">Different drive only</label>)<br>
+<label><input type="checkbox" id="!NoTemp">@shell32.dll,-21815[Temporary Burn Folder]</label><br>
+<br>
+<input type="button" id="GetTeraCopy" value="Get TeraCopy..." title="https://www.codesector.com/teracopy" onclick="wsh.Run(this.title)">

@@ -1,0 +1,27 @@
+<TablacusExplorer>
+  <General>
+    <Version>1.28</Version>
+    <MinVersion>2024.2.27</MinVersion>
+    <pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
+    <Options>Common:0:0</Options>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+    <License>MIT License</License>
+  </General>
+  <en>
+    <Name>Tooltip preview</Name>
+    <Description>Image preview with tooltip.</Description>
+  </en>
+  <fr>
+    <Name>Aperçu d&apos;infobulle</Name>
+    <Description>Aperçu d&apos;image avec infobulle.</Description>
+  </fr>
+  <ja>
+    <Name>ツールチッププレビュー</Name>
+    <Description>ツールチップで画像プレビュー</Description>
+  </ja>
+  <zh>
+    <Name>彈出預覽</Name>
+  </zh>
+</TablacusExplorer>

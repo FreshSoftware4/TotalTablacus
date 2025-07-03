@@ -1,0 +1,41 @@
+<form name="E">
+  <table style="width: 100%; height: calc(100% - 2em)">
+    <tr>
+      <td style="width: 12em; vertical-align: top; height: 100%">
+        <select name="List" size="4" style="width: 12em; height: 100%" onchange="EditXEx(EditFS)" ondblclick="EditFS()" multiple>
+        </select>
+      </td>
+      <td style="vertical-align: top">
+        <div id="pane" style="height: 100%; overflow: auto">
+          <label>Name</label>
+          <br>
+          <input type="text" name="Name" style="width: 100%">
+          <br>
+          <table style="width: 100%"><tr>
+            <td style="width: 100%; vertical-align: bottom"><label>Path</label> (wfx)</td>
+            <td><input type="button" value="Portable" title="Path" onclick="PortableX('Path')"></td>
+            <td><input type="button" value="Browse..." title="Path" id="_browse1"></td>
+          </tr></table>
+          <input type="text" name="Path" style="width: 100%" onchange="PathChanged()">
+          <div id="prop2"></div>
+          <label>Information</label>&emsp;<span id="ver"></span>
+          <table style="width: 100%"><tr><td id="prop0" style="width: 50%"></td><td id="prop1" style="width: 50%"></td></table>
+        </div>
+      </td>
+    </tr>
+  </table>
+  <table id="tools" style="width: 100%">
+    <tr>
+      <td>
+        <input type="button" value="Remove" onclick="RemoveX('List')">
+        <input type="button" value="Up" onclick="MoveX('List', -1)">
+        <input type="button" value="Down" onclick="MoveX('List', 1)">
+        <input type="checkbox" id="_EDIT" checked><label for="_EDIT">Edit</label>
+      </td>
+      <td align="right">
+        <input type="button" value="Add" onclick="AddX('List', ReplaceFS)">
+        <input type="button" value="Replace" onclick="ReplaceFS()">
+      </td>
+    </tr>
+  </table>
+</form>

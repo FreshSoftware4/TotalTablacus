@@ -1,0 +1,25 @@
+<TablacusExplorer>
+  <General>
+    <Version>1.07</Version>
+    <MinVersion>2022.1.16</MinVersion>
+    <pubDate>Tue, 18 Jan 2022 00:00:00 GMT</pubDate>
+    <Options>Common:0,7,8,9:0</Options>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+    <License>MIT License</License>
+  </General>
+  <en>
+    <Name>Virtual name</Name>
+    <Description>Virtual name</Description>
+  </en>
+  <fr>
+    <Name>Nom virtuel</Name>
+  </fr>
+  <ja>
+    <Name>仮想名</Name>
+  </ja>
+  <zh>
+    <Name>替代名稱</Name>
+  </zh>
+</TablacusExplorer>

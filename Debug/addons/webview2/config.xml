@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TablacusExplorer>
+  <General>
+    <Version>1.01</Version>
+    <MinVersion>2021.3.30</MinVersion>
+    <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
+    <Options>Common:4:4</Options>
+    <Config>1</Config>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+    <License>MIT License</License>
+  </General>
+  <en>
+    <Name>WebView2 (Edge Blink engine)</Name>
+    <Description>WebView2 (Edge Blink browser engine) *Microsoft Edge WebView2 Runtime is required.</Description>
+  </en>
+</TablacusExplorer>

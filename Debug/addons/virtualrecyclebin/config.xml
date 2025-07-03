@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TablacusExplorer>
+  <General>
+    <Version>1.06</Version>
+    <MinVersion>2025.5.24</MinVersion>
+    <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
+    <Options>Common:0,7:0</Options>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+    <License>MIT License</License>
+  </General>
+  <en>
+    <Name>Virtual recycle bin</Name>
+    <Description>Recycle bin folder for network folder and removable disk.</Description>
+  </en>
+  <fr>
+    <Name>Poubelle virtuelle</Name>
+    <Description>Dossier poubelle (corbeille) pour les dossiers réseau et disques amovibles.</Description>
+  </fr>
+  <ja>
+    <Name>仮想ごみ箱</Name>
+    <Description>ネットワークフォルダとリムーバブルディスクのごみ箱フォルダ</Description>
+  </ja>
+  <zh>
+    <Name>虛擬資源回收筒</Name>
+  </zh>
+</TablacusExplorer>

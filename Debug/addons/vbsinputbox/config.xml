@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TablacusExplorer>
+  <General>
+    <Version>1.02</Version>
+    <MinVersion>2020.12.22</MinVersion>
+    <pubDate>Wed, 23 Dec 2020 00:00:00 GMT</pubDate>
+    <License>MIT License</License>
+    <Name>VBS InputBox</Name>
+    <Description>VBS InputBox</Description>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+  </General>
+</TablacusExplorer>

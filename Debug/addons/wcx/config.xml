@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TablacusExplorer>
+  <General>
+    <Version>1.16</Version>
+    <MinVersion>2024.10.4</MinVersion>
+    <pubDate>Tue, 08 Oct 2024 00:00:00 GMT</pubDate>
+    <Options>Common:4:4</Options>
+    <DllVersion>1.1.0.0</DllVersion>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+    <License>MIT License</License>
+  </General>
+  <en>
+    <Name>Total Commander Packer Plug-in</Name>
+    <Description>Total Commander Packer Plug-in</Description>
+  </en>
+  <ja>
+    <Name>Total Commander 圧縮プラグイン</Name>
+  </ja>
+  <zh>
+    <Name>Total Commander 壓縮外掛程式</Name>
+  </zh>
+</TablacusExplorer>
