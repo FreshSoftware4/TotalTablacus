@@ -1,0 +1,26 @@
+<TablacusExplorer>
+  <General>
+    <Version>1.28</Version>
+    <MinVersion>2022.3.2</MinVersion>
+    <pubDate>Fri, 04 Mar 2022 00:00:00 GMT</pubDate>
+    <Options>Common:0,7,8,9:0</Options>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+  </General>
+  <en>
+    <Name>Clip folder</Name>
+    <Description>Clip folder is a folder that can hold items from all over the folder and represent them to the user in a single folder.</Description>
+  </en>
+  <fr>
+    <Name>Vade-mecum</Name>
+    <Description>Le dossier &quot;Vade-mecum&quot; est un aide-mémoire contenant toutes les informations que l&apos;utilisateur conserve, pour consultation.</Description>
+  </fr>
+  <ja>
+    <Name>クリップフォルダ</Name>
+    <Description>クリップフォルダを使うとすべてのフォルダから任意の項目を、1つのフォルダにまとめることができます。</Description>
+  </ja>
+  <zh>
+    <Name>剪貼資料夾</Name>
+  </zh>
+</TablacusExplorer>

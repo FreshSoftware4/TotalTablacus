@@ -1,0 +1,26 @@
+<TablacusExplorer>
+  <General>
+    <Version>1.13</Version>
+    <MinVersion>2021.1.14</MinVersion>
+    <pubDate>Sat, 15 Jan 2022 00:00:00 GMT</pubDate>
+    <Options>Common:0:0</Options>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+    <License>MIT License</License>
+  </General>
+  <en>
+    <Name>Color</Name>
+    <Description>Color settings of font and background.</Description>
+  </en>
+  <fr>
+    <Name>Couleur</Name>
+  </fr>
+  <ja>
+    <Name>色</Name>
+    <Description>文字とバックグラウンドの色の設定</Description>
+  </ja>
+  <zh>
+    <Name>色彩</Name>
+  </zh>
+</TablacusExplorer>

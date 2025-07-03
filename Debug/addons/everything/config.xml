@@ -1,0 +1,24 @@
+<TablacusExplorer>
+  <General>
+    <Version>1.47</Version>
+    <MinVersion>2025.5.8</MinVersion>
+    <pubDate>Fri, 09 May 2025 00:00:00 GMT</pubDate>
+    <Options>Common:0,5,6,7,8,9:0</Options>
+    <Creator>Gaku</Creator>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+  </General>
+  <en>
+    <Name>Everything</Name>
+    <Description>Search using Everything Search Engine.</Description>
+  </en>
+  <fr>
+    <Name>Everything</Name>
+    <Description>Chercher en utilisant Everything Search Engine.</Description>
+  </fr>
+  <ja>
+    <Name>Everything</Name>
+    <Description>Everything Search Engineで検索を行います。</Description>
+  </ja>
+</TablacusExplorer>

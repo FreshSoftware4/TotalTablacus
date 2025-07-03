@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TablacusExplorer>
+  <General>
+    <Version>1.01</Version>
+    <MinVersion>2021.5.9</MinVersion>
+    <pubDate>Mon, 10 May 2021 00:00:00 GMT</pubDate>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+    <License>MIT License</License>
+  </General>
+  <en>
+    <Name>Command in address bar</Name>
+    <Description>Command input in the address bar.</Description>
+  </en>
+  <ja>
+    <Name>アドレスバーでコマンド入力</Name>
+  </ja>
+</TablacusExplorer>
