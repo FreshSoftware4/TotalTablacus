@@ -1,0 +1,26 @@
+<TablacusExplorer>
+  <General>
+    <Version>1.24</Version>
+    <MinVersion>2022.1.25</MinVersion>
+    <pubDate>Wed, 26 Jan 2022 00:00:00 GMT</pubDate>
+    <Options>Common:0,1:0</Options>
+    <Creator>Gaku</Creator>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+  </General>
+  <en>
+    <Name>Badge</Name>
+    <Description>Assign and sort items with a 1 to 5 rating system displayed as an icon badge</Description>
+  </en>
+  <fr>
+    <Name>Badge</Name>
+    <Description>Attribuer et trie des éléments avec un système d'évaluation de 1 à 5 affiché sous forme de badge d'icône</Description>
+  </fr>
+  <ja>
+    <Name>バッジ</Name>
+  </ja>
+  <zh>
+    <Name>徽章</Name>
+  </zh>
+</TablacusExplorer>

@@ -1,0 +1,29 @@
+<TablacusExplorer>
+  <General>
+    <Version>1.12</Version>
+    <MinVersion>2025.5.15</MinVersion>
+    <pubDate>Sat, 17 May 2025 00:00:00 GMT</pubDate>
+    <Options>Common:4:4</Options>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+    <License>MIT License</License>
+  </General>
+  <en>
+    <Name>Background image</Name>
+    <Description>Set filter based rules to define a background image used for the folder list</Description>
+  </en>
+  <fr>
+    <Name>Image d&apos;arrière-plan</Name>
+  </fr>
+  <ja>
+    <Name>背景画像</Name>
+  </ja>
+  <pt>
+    <Name>Imagem de Fundo</Name>
+    <Description>Defina regras com filtros para aplicar imagens de fundo para a lista de ficheiros</Description>
+  </pt>
+  <zh>
+    <Name>分頁背景</Name>
+  </zh>
+</TablacusExplorer>

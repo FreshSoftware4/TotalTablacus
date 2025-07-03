@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TablacusExplorer>
+  <General>
+    <Version>1.03</Version>
+    <MinVersion>2020.12.22</MinVersion>
+    <pubDate>Wed, 23 Dec 2020 00:00:00 GMT</pubDate>
+    <Options>Common:0:0</Options>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+    <License>MIT License</License>
+  </General>
+  <en>
+    <Name>Auto update</Name>
+    <Description>Update Tablacus Explorer after a period of inactivity.</Description>
+  </en>
+  <ja>
+    <Name>自動更新</Name>
+    <Description>一定時間使用していない場合、Tablacus Explorerを自動的に最新版に更新します。</Description>
+  </ja>
+  <zh>
+    <Name>自動更新</Name>
+  </zh>
+</TablacusExplorer>

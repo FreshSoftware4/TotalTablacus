@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TablacusExplorer>
+  <General>
+    <Version>1.10</Version>
+    <MinVersion>2021.12.18</MinVersion>
+    <pubDate>Sat, 25 Dec 2021 00:00:00 GMT</pubDate>
+    <Options>Common:7,8,9:7</Options>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+    <License>MIT License</License>
+  </General>
+  <en>
+    <Name>Change file attributes</Name>
+    <Description>Dialog to change file attributes, accessible from context menu, configurable hotkeys or gestures.</Description>
+  </en>
+  <fr>
+    <Name>Modifier les attributs de fichier</Name>
+    <Description>Dialogue pour modifier les attributs de fichiers, accessible depuis le menu contextuel, les raccourcis clavier configurables ou les manipulations.</Description>
+  </fr>
+  <ja>
+    <Name>属性の変更</Name>
+    <Description>ファイルの属性を変更する。</Description>
+  </ja>
+  <zh>
+    <Name>變更屬性</Name>
+  </zh>
+</TablacusExplorer>

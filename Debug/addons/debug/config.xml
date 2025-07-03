@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TablacusExplorer>
+  <General>
+    <Version>1.03</Version>
+    <MinVersion>2021.4.14</MinVersion>
+    <pubDate>Thu, 15 Apr 2021 00:00:00 GMT</pubDate>
+    <Options>Common:0,6:6</Options>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+    <License>MIT License</License>
+  </General>
+  <en>
+    <Name>Debug</Name>
+    <Description>Debug view for developers</Description>
+  </en>
+  <ja>
+    <Name>デバッグ</Name>
+    <Description>開発者向けのデバッグビュー</Description>
+  </ja>
+</TablacusExplorer>

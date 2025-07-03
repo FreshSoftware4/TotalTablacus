@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TablacusExplorer>
+  <General>
+    <Version>1.03</Version>
+    <MinVersion>2020.12.16</MinVersion>
+    <pubDate>Sat, 19 Dec 2020 00:00:00 GMT</pubDate>
+    <Options>Common:0:0</Options>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+    <License>MIT License</License>
+  </General>
+  <en>
+    <Name>Auto save</Name>
+    <Description>Save settings periodically.</Description>
+  </en>
+  <ja>
+    <Name>自動的に保存</Name>
+  </ja>
+  <zh>
+    <Name>定時儲存設定</Name>
+  </zh>
+</TablacusExplorer>

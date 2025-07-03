@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TablacusExplorer>
+  <General>
+    <Version>1.04</Version>
+    <MinVersion>2020.12.31</MinVersion>
+    <pubDate>Fri, 01 Jan 2021 00:00:00 GMT</pubDate>
+    <DllVersion>1.0.0.0</DllVersion>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+    <License>MIT License</License>
+  </General>
+  <en>
+    <Name>Archive image</Name>
+    <Description>Show archive images in preview etc. (.zip)</Description>
+  </en>
+  <ja>
+    <Name>書庫画像</Name>
+    <Description>プレビュー等で書庫画像を表示 (.zip)</Description>
+  </ja>
+  <zh>
+    <Name>預覽壓縮檔內圖片</Name>
+  </zh>
+</TablacusExplorer>
