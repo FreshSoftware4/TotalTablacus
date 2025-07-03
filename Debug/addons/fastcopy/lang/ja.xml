@@ -1,0 +1,9 @@
+<resources>
+	<text s="Automatically start">自動的に開始</text>
+	<text s="Different drive only">別ドライブのみ</text>
+	<text s="Overwrite all">全上書き</text>
+	<text s="No Overwrite">上書きなし</text>
+	<text s="Update">最新日付</text>
+	<text s="Sync">同期</text>
+	<text s="No Confirm">確認しない</text>
+</resources>

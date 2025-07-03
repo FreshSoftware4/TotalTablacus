@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TablacusExplorer>
+  <General>
+    <Version>1.08</Version>
+    <MinVersion>2020.12.31</MinVersion>
+    <pubDate>Mon, 04 Jan 2021 00:00:00 GMT</pubDate>
+    <Options>Common:0:0</Options>
+    <DllVersion>1.2.0.0</DllVersion>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+    <License>MIT License</License>
+  </General>
+  <en>
+    <Name>GFL SDK</Name>
+    <Description>GFL SDK</Description>
+  </en>
+</TablacusExplorer>

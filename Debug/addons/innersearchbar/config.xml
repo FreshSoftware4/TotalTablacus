@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TablacusExplorer>
+  <General>
+    <Version>1.14</Version>
+    <MinVersion>2025.5.8</MinVersion>
+    <pubDate>Fri, 09 May 2025 00:00:00 GMT</pubDate>
+    <Options>Common:0,5,7,8,9:0</Options>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+    <License>MIT License</License>
+  </General>
+  <en>
+    <Name>Inner Search bar</Name>
+    <Description>Search bar for each pane</Description>
+  </en>
+  <fr>
+    <Name>Barre de recherche - interne</Name>
+    <Description>Place un champ de clés de recherche dans chaque volet</Description>
+  </fr>
+  <ja>
+    <Name>Inner 検索バー</Name>
+    <Description>ペイン毎の検索バー</Description>
+  </ja>
+  <zh>
+    <Name>窗格內搜尋列</Name>
+  </zh>
+</TablacusExplorer>

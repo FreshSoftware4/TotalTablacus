@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TablacusExplorer>
+  <General>
+    <Version>1.44</Version>
+    <MinVersion>2021.3.25</MinVersion>
+    <pubDate>Sun, 28 May 2023 00:00:00 GMT</pubDate>
+    <Options>Common:0:0</Options>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+   <License>MIT License</License>
+  </General>
+  <en>
+    <Name>Favorites bar</Name>
+    <Description>Favorites bar</Description>
+  </en>
+  <ja>
+    <Name>お気に入りバー</Name>
+  </ja>
+  <zh>
+    <Name>我的最愛欄</Name>
+  </zh>
+</TablacusExplorer>

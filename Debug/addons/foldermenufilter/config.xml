@@ -1,0 +1,25 @@
+<TablacusExplorer>
+  <General>
+    <Version>1.04</Version>
+    <MinVersion>2022.1.25</MinVersion>
+    <pubDate>Tue, 25 Jan 2022 00:00:00 GMT</pubDate>
+    <Options>Common:0:0</Options>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+    <License>MIT License</License>
+  </General>
+  <en>
+    <Name>Folder menu filter</Name>
+    <Description>Folder menu filter</Description>
+  </en>
+  <fr>
+    <Name>Filtre du menu ‘Dossier&apos;</Name>
+  </fr>
+  <ja>
+    <Name>フォルダメニューフィルタ</Name>
+  </ja>
+  <zh>
+    <Name>屏蔽資料夾選單項目</Name>
+  </zh>
+</TablacusExplorer>
