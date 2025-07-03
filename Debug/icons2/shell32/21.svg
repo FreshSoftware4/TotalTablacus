@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg8"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="Icons_Dark">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop2609" />
+    </linearGradient>
+    <linearGradient
+       id="Stroke_Backdrop"
+       gradientTransform="matrix(6.7933545,0,0,8.0447619,-7681.912,-23804.025)">
+      <stop
+         style="stop-color:#ff0303;stop-opacity:1;"
+         offset="0"
+         id="stop3116" />
+    </linearGradient>
+    <linearGradient
+       id="Icons_Light"
+       gradientTransform="matrix(28.431738,-6.7717873,-8.3792048,-27.796996,66228.186,87808.556)">
+      <stop
+         style="stop-color:black;stop-opacity:1;"
+         offset="0"
+         id="stop922" />
+    </linearGradient>
+    <linearGradient
+       id="Slices"
+       gradientTransform="matrix(0.75294117,0,0,2.4999993,618899.01,-1214536.9)">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.86363637;"
+         offset="0"
+         id="stop1554" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer3"
+     style="display:inline"
+     transform="translate(-32,1120)">
+    <g
+       id="03_TablacusVector\shell32\21"
+       transform="translate(-768,-2240)">
+      <rect
+         y="1120"
+         x="800"
+         height="64"
+         width="64"
+         id="use13979"
+         style="display:inline;fill:white;fill-opacity:0;stroke:none;stroke-linecap:round;stroke-opacity:1" />
+      <rect
+         style="fill:none;fill-opacity:0;stroke:currentcolor;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+         id="rect15461"
+         width="52"
+         height="44"
+         x="806"
+         y="1130"
+         rx="4.5"
+         ry="4.3333302" />
+      <rect
+         style="fill:none;fill-opacity:0;stroke:currentcolor;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+         id="rect15565"
+         width="20"
+         height="13"
+         x="814"
+         y="1138"
+         rx="2"
+         ry="2" />
+      <path
+         style="fill:none;fill-opacity:0;stroke:currentcolor;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+         d="m 842,1138 v 12"
+         id="path15680" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path15680"
+         id="use17098"
+         transform="translate(8)"
+         width="100%"
+         height="100%"
+         style="fill:none;stroke:currentcolor" />
+      <path
+         style="fill:none;fill-opacity:0;stroke:currentcolor;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+         d="M 850,1158 H 814"
+         id="path17275" />
+      <path
+         style="fill:none;fill-opacity:0;stroke:currentcolor;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+         d="M 850,1166 H 814"
+         id="path20375" />
+    </g>
+  </g>
+</svg>

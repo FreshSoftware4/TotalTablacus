@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg8"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="Icons_Dark">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop2609" />
+    </linearGradient>
+    <linearGradient
+       id="Stroke_Backdrop"
+       gradientTransform="matrix(6.7933545,0,0,8.0447619,-7681.912,-23804.025)">
+      <stop
+         style="stop-color:#ff0303;stop-opacity:1;"
+         offset="0"
+         id="stop3116" />
+    </linearGradient>
+    <linearGradient
+       id="Icons_Light"
+       gradientTransform="matrix(28.431738,-6.7717873,-8.3792048,-27.796996,66244.186,87808.556)">
+      <stop
+         style="stop-color:black;stop-opacity:1;"
+         offset="0"
+         id="stop922" />
+    </linearGradient>
+    <linearGradient
+       id="Slices"
+       gradientTransform="matrix(0.75294117,0,0,2.4999993,618899.01,-1214536.9)">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.86363637;"
+         offset="0"
+         id="stop1554" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#Stroke_Backdrop"
+       id="linearGradient3276"
+       gradientTransform="scale(1.0000245,0.99997553)"
+       x1="1187.9709"
+       y1="1476.0346"
+       x2="1243.9697"
+       y2="1476.0346"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#Stroke_Backdrop"
+       id="linearGradient3278"
+       gradientTransform="scale(0.66143753,1.5118586)"
+       x1="1832.3726"
+       y1="-1008.0308"
+       x2="1853.5385"
+       y2="-1008.0308"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#Stroke_Backdrop"
+       id="linearGradient3280"
+       x1="1188"
+       y1="-1528"
+       x2="1204"
+       y2="-1528"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer3"
+     style="display:inline"
+     transform="translate(-1184,1536)">
+    <g
+       id="03_TablacusVector\browser\12">
+      <rect
+         y="-1536"
+         x="1184"
+         height="64"
+         width="64"
+         id="use3503"
+         style="display:inline;fill:white;fill-opacity:0;stroke:none;stroke-linecap:round;stroke-opacity:1" />
+      <path
+         transform="scale(1,-1)"
+         d="m 1190,1504 a 26.000019,26.000019 0 0 1 21.4851,-25.605 26.000019,26.000019 0 0 1 28.9469,16.7125 26.000019,26.000019 0 0 1 -11.432,31.4092 26.000019,26.000019 0 0 1 -32.9172,-5.8042"
+         id="path3580"
+         style="fill:url(#linearGradient3276);fill-opacity:0;stroke:currentcolor;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="path3582"
+         d="m 1214,-1522 v 18.0073 l 9.9999,9.9925"
+         style="fill:url(#linearGradient3278);fill-opacity:0;stroke:currentcolor;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:url(#linearGradient3280);fill-opacity:0;stroke:currentcolor;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1190,-1526 v 12 h 12"
+         id="path3598" />
+    </g>
+  </g>
+</svg>

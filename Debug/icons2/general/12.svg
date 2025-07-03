@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64.101891"
+   height="64"
+   viewBox="0 0 64.101891 64"
+   version="1.1"
+   id="svg8"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="Icons_Dark">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop2609" />
+    </linearGradient>
+    <linearGradient
+       id="Stroke_Backdrop"
+       gradientTransform="matrix(6.7933545,0,0,8.0447619,-7681.912,-23804.025)">
+      <stop
+         style="stop-color:#ff0303;stop-opacity:1;"
+         offset="0"
+         id="stop3116" />
+    </linearGradient>
+    <linearGradient
+       id="Icons_Light"
+       gradientTransform="matrix(28.431738,-6.7717873,-8.3792048,-27.796996,66244.186,87808.556)">
+      <stop
+         style="stop-color:black;stop-opacity:1;"
+         offset="0"
+         id="stop922" />
+    </linearGradient>
+    <linearGradient
+       id="Slices"
+       gradientTransform="matrix(0.75294117,0,0,2.4999993,618899.01,-1214536.9)">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.86363637;"
+         offset="0"
+         id="stop1554" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer3"
+     style="display:inline"
+     transform="translate(-1183.9491,1920)">
+    <g
+       transform="translate(384,-2144)"
+       id="03_TablacusVector\general\12">
+      <rect
+         y="223.99995"
+         x="800"
+         height="64"
+         width="64"
+         id="use2659"
+         style="display:inline;fill:white;fill-opacity:0;stroke:none;stroke-linecap:round;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:currentcolor;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 802,274 v -36 c 0,-2.216 1.784,-4 4,-4 h 48 c 2.216,0 4,1.784 4,4 v 4"
+         id="rect2655" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:currentcolor;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 806,234 c 0,-2.216 1.784,-4 4,-4 h 12 c 2.216,0 4,1.784 4,4"
+         id="path2657" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:currentcolor;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 810,250 h 48 c 2.216,0 4.43459,1.82703 4,4 l -4,20 c -0.43459,2.17297 -1.784,4 -4,4 h -48 c -2.216,0 -4.43459,-1.82703 -4,-4 l 4,-20 c 0.43459,-2.17297 1.784,-4 4,-4 z"
+         id="rect2663" />
+    </g>
+  </g>
+</svg>

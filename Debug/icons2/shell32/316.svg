@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg8"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="Icons_Dark">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop2609" />
+    </linearGradient>
+    <linearGradient
+       id="Stroke_Backdrop"
+       gradientTransform="matrix(6.7933545,0,0,8.0447619,-7681.912,-23804.025)">
+      <stop
+         style="stop-color:#ff0303;stop-opacity:1;"
+         offset="0"
+         id="stop3116" />
+    </linearGradient>
+    <linearGradient
+       id="Icons_Light"
+       gradientTransform="matrix(-28.431738,6.7717873,8.3792048,27.796996,-64164.183,-87488.554)">
+      <stop
+         style="stop-color:black;stop-opacity:1;"
+         offset="0"
+         id="stop922" />
+    </linearGradient>
+    <linearGradient
+       id="Slices"
+       gradientTransform="matrix(0.75294117,0,0,2.4999993,618899.01,-1214536.9)">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.86363637;"
+         offset="0"
+         id="stop1554" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer3"
+     style="display:inline"
+     transform="translate(-128,-224.00005)">
+    <g
+       id="03_TablacusVector\shell32\316"
+       transform="translate(-864,96.0001)">
+      <rect
+         y="127.99995"
+         x="992"
+         height="64"
+         width="64"
+         id="use10986"
+         style="display:inline;fill:white;fill-opacity:0;stroke:none;stroke-linecap:round;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-opacity:0;stroke:currentcolor;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+         d="M 1016,141.99995 1018,134 h 12 l 2,7.99995 3.5,2"
+         id="path11137" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path11137"
+         id="use12429"
+         transform="rotate(180,1024,159.99995)"
+         width="100%"
+         height="100%" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path11137"
+         id="use12431"
+         transform="rotate(60,1024,159.99995)"
+         width="100%"
+         height="100%" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use12429"
+         id="use12433"
+         transform="rotate(60,1024,159.99995)"
+         width="100%"
+         height="100%" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path11137"
+         id="use12435"
+         transform="rotate(120,1024,159.99995)"
+         width="100%"
+         height="100%" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use12429"
+         id="use12437"
+         transform="rotate(120,1024,159.99995)"
+         width="100%"
+         height="100%" />
+      <circle
+         style="fill:none;fill-opacity:0;stroke:currentcolor;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+         id="path12650"
+         cx="1024"
+         cy="160"
+         r="10" />
+    </g>
+  </g>
+</svg>
