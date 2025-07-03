@@ -1,0 +1,11 @@
+- prefix: internal
+  description: 内部用
+
+- prefix: fromExecutives
+  description: 会社からの文書
+
+- prefix: toExecutives
+  description: 会社への文書
+
+- prefix: other
+  description: その他

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TablacusExplorer>
+  <General>
+    <Version>1.20</Version>
+    <MinVersion>2025.4.25</MinVersion>
+    <pubDate>Sat, 26 Apr 2025 00:00:00 GMT</pubDate>
+    <Options>Common:0,6:6</Options>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+    <License>MIT License</License>
+  </General>
+  <en>
+    <Name>Status bar</Name>
+    <Description>Status bar</Description>
+  </en>
+  <ja>
+    <Name>ステータスバー</Name>
+  </ja>
+  <zh>
+    <Name>狀態列</Name>
+  </zh>
+</TablacusExplorer>

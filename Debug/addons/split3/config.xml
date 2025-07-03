@@ -1,0 +1,27 @@
+<TablacusExplorer>
+  <General>
+    <Version>1.13</Version>
+    <MinVersion>2025.2.24</MinVersion>
+    <pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
+    <Options>Common:0,6:0</Options>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+    <License>MIT License</License>
+  </General>
+  <en>
+    <Name>Split3</Name>
+    <Description>Split a window into 3 frames. *"Split" is required.</Description>
+  </en>
+  <fr>
+    <Name>Fractionner en 3</Name>
+    <Description>Diviser la fenêtre en 3 panneaux. *&quot;Fractionner&quot; est requis.</Description>
+  </fr>
+  <ja>
+    <Name>3分割</Name>
+    <Description>画面の3分割 ※"分割"が必要</Description>
+  </ja>
+  <zh>
+    <Name>劃分三個窗格</Name>
+  </zh>
+</TablacusExplorer>

@@ -1,0 +1,50 @@
+isDestExists: |md
+    Is `-dest` valid dir path?
+|
+
+doesDestContainsPathSep: |md
+    Does `-dest` contains path separator?
+|
+
+isDisposal: |md
+    Is `-dest` `_obsolete`?
+|
+
+isBlank: |md
+    Is `-dest` empty?
+|
+
+makeIfNot: |md
+    Create `-dest` as subdir of `-src` (if not exists)
+|
+
+hasSubDir: |md
+    Is there subdirs in `-src` dir?
+|
+
+end: |md
+    Do nothing
+|
+
+select: |md
+    Select with fuzzy-finder
+|
+
+send: |md
+    Send selected item to specified dest
+|
+
+
+isDestExists -> send: yes
+isDestExists -> doesDestContainsPathSep: no
+doesDestContainsPathSep -> end: yes
+doesDestContainsPathSep -> isDisposal: no
+isDisposal -> makeIfNot: yes
+makeIfNot -> send
+isDisposal -> isBlank: no
+isBlank -> hasSubDir: yes
+isBlank -> makeIfNot: no
+hasSubDir -> select: yes
+select -> send
+hasSubDir -> end: no
+

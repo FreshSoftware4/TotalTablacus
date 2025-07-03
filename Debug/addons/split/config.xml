@@ -1,0 +1,27 @@
+<TablacusExplorer>
+  <General>
+    <Version>1.26</Version>
+    <MinVersion>2022.2.18</MinVersion>
+    <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
+    <Options>Common:0,6:0</Options>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+    <License>MIT License</License>
+  </General>
+  <en>
+    <Name>Split</Name>
+    <Description>Split window</Description>
+  </en>
+  <fr>
+    <Name>Fractionner</Name>
+    <Description>Scinde la fenêtre en plusieurs volets</Description>
+  </fr>
+  <ja>
+    <Name>分割</Name>
+    <Description>画面の分割</Description>
+  </ja>
+  <zh>
+    <Name>劃分窗格</Name>
+  </zh>
+</TablacusExplorer>
