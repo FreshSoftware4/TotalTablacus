@@ -1,0 +1,90 @@
+﻿.default {
+  border-radius: 2.5px;
+  margin-right: 1px;
+  border: 1px solid buttonshadow;
+  height: 1.5em;
+  padding: 0 5px;
+  outline: 1;
+  vertical-align: bottom;
+  background: #2a2a2a;
+  vertical-align: bottom;
+  font-size: 10px;
+}
+
+.default:before {
+  
+}
+
+.default:after {
+  
+}
+
+.selected {
+  border-radius: 2.5px;
+  margin-right: 1px;
+  border: 1px solid buttonshadow;
+  height: 1.5em;
+  padding: 0 4px;
+  outline: 1;
+  vertical-align: bottom;
+  box-shadow: 0 0 0 9em rgba(0,0,0,0.9) inset;
+  filter: alpha(style=0,opacity=100);
+  font-size: 10px;
+}
+
+.selected:before {
+  
+}
+
+.selected:after {
+  
+}
+
+.left {
+  
+}
+
+.left:before {
+  
+}
+
+.left:after {
+  
+}
+
+.right {
+  
+}
+
+.right:before {
+  
+}
+
+.right:after {
+  
+}
+
+.new {
+  
+}
+
+.new:before {
+  
+}
+
+.new:after {
+  
+}
+
+.base {
+  
+}
+
+.base:before {
+  
+}
+
+.base:after {
+  
+}
+
