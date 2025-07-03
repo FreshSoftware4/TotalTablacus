@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TablacusExplorer>
+  <General>
+    <Version>1.09</Version>
+    <MinVersion>2021.11.1</MinVersion>
+    <pubDate>Mon, 20 Dec 2021 00:00:00 GMT</pubDate>
+    <Options>Common:7,8,9:7</Options>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+    <License>MIT License</License>
+  </General>
+  <en>
+    <Name>Change tab color</Name>
+    <Description>Change tab color. Require "Tab plus"
+    </Description>
+  </en>
+  <fr>
+    <Name>Changer la couleur d'onglet</Name>
+    <Description>Change la couleur de l'onglet. "Tab plus" est requis.
+    </Description>
+  </fr>
+  <ja>
+    <Name>タブに色を付ける</Name>
+    <Description>タブに色を付けます。※タブプラスが必要</Description>
+  </ja>
+  <zh>
+    <Name>變更頁籤色彩</Name>
+  </zh>
+</TablacusExplorer>

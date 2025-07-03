@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TablacusExplorer>
+  <General>
+    <Version>1.02</Version>
+    <MinVersion>2020.12.23</MinVersion>
+    <pubDate>Thu, 24 Dec 2020 00:00:00 GMT</pubDate>
+    <Options>Common:0:0</Options>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+    <License>MIT License</License>
+  </General>
+  <en>
+    <Name>Size bar chart</Name>
+    <Description>Display size as bar chart</Description>
+  </en>
+  <ja>
+    <Name>サイズの棒グラフ</Name>
+    <Description>サイズを棒グラフで表示する</Description>
+  </ja>
+</TablacusExplorer>
