@@ -1,0 +1,87 @@
+<form name="E">
+  <table style="width: 100%; height: calc(100% - 2em)">
+    <tr>
+      <td style="width: 12em; vertical-align: top">
+        <select name="List" size="20" style="width: 12em; height: 100%" onchange="EditXEx(EditIC, 'List')"
+          ondblclick="EditIC('List')" oncontextmenu="CancelX('List')" multiple>
+        </select>
+      </td>
+      <td style="width: 100%; vertical-align: top">
+        <div class="panel" style="display: block">
+          <table class="layout">
+            <tr>
+              <td style="width: 100%">
+                <label>Path</label>
+              </td>
+              <td>
+                <button onclick="PortableX('Path')">Portable</button>
+              </td>
+              <td>
+                <button onclick="RefX('Path', false, this, false, '@shell32.dll,-4131\t|<Folder>')">Browse...</button>
+              </td>
+            </tr>
+          </table>
+          <input type="text" name="Path" style="width: 100%" onchange="ChangeX('List')" onfocus="this.select()">
+        </div>
+        <div class="panel" style="display: block">
+          <table class="layout">
+            <tr>
+              <td style="width: 100%; white-space: nowrap">
+                <label>@shell32.dll,-33578</label>
+              </td>
+              <td>
+                <button onclick="PortableX('Small')">Portable</button>
+              </td>
+              <td>
+                <button onclick="ShowIcon(document.E.Small)">Select</button>
+              </td>
+              <td>
+                <button onclick="RefX('Small', false, this, true, '@shell32.dll,-9007')">Browse...</button>
+              </td>
+            </tr>
+          </table>
+          <input type="text" name="Small" style="width: 100%" onchange="ChangeX('List');ShowIconX('Small' , 0)"
+            onfocus="this.select()"><br>
+          <div id="icon_0"></div>
+        </div>
+        <div class="panel" style="display: block">
+          <table class="layout">
+            <tr>
+              <td style="width: 100%; white-space: nowrap">
+                <label>@shell32.dll,-33577</label>
+              </td>
+              <td>
+                <button onclick="PortableX('Large')">Portable</button>
+              </td>
+              <td>
+                <button onclick="ShowIcon(document.E.Large)">Select</button>
+              </td>
+              <td>
+                <button onclick="RefX('Large', false, this, true, '@shell32.dll,-9007')">Browse...</button>
+              </td>
+            </tr>
+          </table>
+          <input type="text" name="Large" style="width: 100%" onchange="ChangeX('List');ShowIconX('Large' , 1)"
+            onfocus="this.select()"><br>
+          <div id="icon_1"></div>
+          <label>@shell32.dll,-30554</label>
+        </div>
+      </td>
+    </tr>
+  </table>
+  <table style="width: 100%">
+    <tr>
+      <td style="width: 100%; white-space: nowrap">
+        <button onclick="RemoveX('List')">Remove</button>
+        <button onclick="MoveX('List',-1)">Up</button>
+        <button onclick="MoveX('List',1)">Down</button>
+        <input type="checkbox" id="_EDIT" checked="">
+        <label for="_EDIT">Edit</label>
+      </td>
+      <td style="white-space: nowrap">
+        <button onclick="AddX('List', ReplaceIC)">Add</button>
+        <button onclick="ReplaceIC('List')">Replace</button>
+      </td>
+    </tr>
+  </table>
+</form>

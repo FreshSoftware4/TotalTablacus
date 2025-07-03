@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TablacusExplorer>
+  <General>
+    <Version>1.04</Version>
+    <MinVersion>2021.1.14</MinVersion>
+    <pubDate>Sat, 16 Jan 2021 00:00:00 GMT</pubDate>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+    <License>MIT License</License>
+  </General>
+  <en>
+    <Name>Select plus</Name>
+    <Description>Selects items after background file operations.(Not perfect)</Description>
+  </en>
+  <ja>
+    <Name>項目選択プラス</Name>
+    <Description>バックグラウンドのファイル操作後に項目を選択します。(完璧ではありません)</Description>
+  </ja>
+</TablacusExplorer>

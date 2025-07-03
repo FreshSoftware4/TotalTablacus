@@ -1,0 +1,2 @@
+# PnginfoPromptSQL
+ChatGPT頼んで生成画像のPnginfoをSQL経由でTablacus Explorer管理してくれるようにしようという目論見

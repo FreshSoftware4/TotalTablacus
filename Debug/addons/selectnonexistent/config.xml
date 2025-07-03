@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TablacusExplorer>
+  <General>
+    <Version>1.03</Version>
+    <MinVersion>2021.1.10</MinVersion>
+    <pubDate>Wed, 13 Jan 2021 00:00:00 GMT</pubDate>
+    <Options>Common:7,8,9:7</Options>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+    <License>MIT License</License>
+  </General>
+  <en>
+    <Name>Select nonexistent items</Name>
+    <Description>Select nonexistent items</Description>
+  </en>
+  <ja>
+    <Name>存在しない項目を選択</Name>
+    <Description>存在しない項目を選択します。</Description>
+  </ja>
+  <zh>
+    <Name>選取不存在的項目</Name>
+  </zh>
+</TablacusExplorer>

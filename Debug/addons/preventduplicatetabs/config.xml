@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TablacusExplorer>
+  <General>
+    <Version>1.19</Version>
+    <MinVersion>2021.12.18</MinVersion>
+    <pubDate>Tue, 21 Dec 2021 00:00:00 GMT</pubDate>
+    <Options>Common:0:0</Options>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+    <License>MIT License</License>
+  </General>
+  <en>
+    <Name>Prevent duplicate tabs</Name>
+    <Description>Automatically prevent from any duplicated tab in the same pane</Description>
+  </en>
+  <fr>
+    <Name>Empêcher la duplication des onglets</Name>
+    <Description>Empêche toute création d'onglet en double dans le même volet</Description>
+  </fr>
+  <ja>
+    <Name>重複タブ禁止</Name>
+  </ja>
+  <zh>
+    <Name>防止重複分頁</Name>
+  </zh>
+</TablacusExplorer>

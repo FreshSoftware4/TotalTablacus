@@ -1,0 +1,26 @@
+<TablacusExplorer>
+  <General>
+    <Version>1.04</Version>
+    <MinVersion>2022.1.16</MinVersion>
+    <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
+    <Options>Common:0:0</Options>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+    <License>MIT License</License>
+  </General>
+  <en>
+    <Name>Menu image plus</Name>
+    <Description>Preview in menu.</Description>
+  </en>
+  <fr>
+    <Name>Image de manu plus</Name>
+    <Description>Aperçu de l&apos;image au survol.</Description>
+  </fr>
+  <ja>
+    <Name>メニュー画像プラス</Name>
+  </ja>
+  <zh>
+    <Name>資料夾選單彈出預覽</Name>
+  </zh>
+</TablacusExplorer>

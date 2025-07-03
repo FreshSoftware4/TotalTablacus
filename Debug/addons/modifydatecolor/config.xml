@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TablacusExplorer>
+  <General>
+    <Version>1.09</Version>
+    <MinVersion>2021.4.28</MinVersion>
+    <pubDate>Fri, 21 May 2021 00:00:00 GMT</pubDate>
+    <Options>Common:4:4</Options>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+    <License>MIT License</License>
+  </General>
+  <en>
+    <Name>Colored with modify date</Name>
+    <Description>Colored with modify date</Description>
+  </en>
+  <ja>
+    <Name>更新日時で色分け</Name>
+  </ja>
+  <zh>
+    <Name>依修改日期著色</Name>
+  </zh>
+</TablacusExplorer>
