@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TablacusExplorer>
+  <General>
+    <Version>1.19</Version>
+    <MinVersion>2024.2.27</MinVersion>
+    <pubDate>Sun, 03 Mar 2024 00:00:00 GMT</pubDate>
+    <Options>Common:0,6:0</Options>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <Contributors>nkay08</Contributors>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+    <License>MIT License</License>
+  </General>
+  <en>
+    <Name>Drive bar</Name>
+    <Description>Drive bar</Description>
+  </en>
+  <ja>
+    <Name>ドライブバー</Name>
+  </ja>
+  <zh>
+    <Name>磁碟列</Name>
+  </zh>
+</TablacusExplorer>

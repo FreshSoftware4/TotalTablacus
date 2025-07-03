@@ -1,0 +1,20 @@
+<TablacusExplorer>
+  <General>
+    <Version>1.16</Version>
+    <MinVersion>2022.1.24</MinVersion>
+    <pubDate>Mon, 24 Jan 2022 00:00:00 GMT</pubDate>
+    <Options>Common:0:0</Options>
+    <Level>2</Level>
+    <Creator>Gaku</Creator>
+    <URL>https://tablacus.github.io/TablacusExplorerAddons/</URL>
+    <License>MIT License</License>
+  </General>
+  <en>
+    <Name>Fire File Copy</Name>
+    <Description>File operations in Fire File Copy.</Description>
+  </en>
+  <ja>
+    <Name>Fire File Copy</Name>
+    <Description>Fire File Copyでファイル操作を行います。</Description>
+  </ja>
+</TablacusExplorer>
